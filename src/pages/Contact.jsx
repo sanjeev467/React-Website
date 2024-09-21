@@ -10,7 +10,7 @@ export const Contact = () => {
       <h2 className="container-title">Contact Us</h2>
 
       <div className="contact-wrapper container">
-        <form action={handleFormSubmit}>
+        <form action="_blank">
           <input
             type="text"
             className="form-control"
