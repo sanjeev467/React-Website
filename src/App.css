@@ -126,6 +126,7 @@ nav ul {
 
   & li a {
     color: #fff;
+    text-decoration: none;
   }
 }
 
@@ -458,6 +459,8 @@ country Card
     font-size: 1.55rem;
     font-weight: bold;
     letter-spacing: 0.1rem;
+    border-radius: 8px;
+    padding: 4px;
     text-transform: capitalize;
     color: rgba(255, 255, 255, 0.8);
     border: 0.05rem solid #fff;

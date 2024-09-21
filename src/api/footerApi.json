@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Khopoli, Maharashtra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "8788261489"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "sanjeevp.work@gmail.com"
+  }
+]
