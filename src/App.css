@@ -506,6 +506,15 @@ country Card
   color: rgba(255, 255, 255, 0.5);
 }
 
+/* media query */
+
+@media screen and (max-width: 998px) {
+  .section-searchFilter {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+}
+
 /* ------------------ 
 contact us page 
 --------------- */
