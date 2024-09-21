@@ -10,3 +10,7 @@ Currently, two official plugins are available:
 # React-Website
 
 <!-- dependencies -->
+
+<!-- npm create vite@latest
+npm i react-router-dom
+npm i axios -->
